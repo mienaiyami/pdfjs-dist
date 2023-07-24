@@ -1,3 +1,7 @@
+
+`canvas` removed from `optionalDep`.
+
+---
 # PDF.js
 
 PDF.js is a Portable Document Format (PDF) library that is built with HTML5.
