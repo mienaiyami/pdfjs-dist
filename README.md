@@ -1,5 +1,5 @@
 
-`canvas` removed from `optionalDep`.
+`canvas` removed from `optionalDep`, and added types for build.
 
 ---
 # PDF.js
